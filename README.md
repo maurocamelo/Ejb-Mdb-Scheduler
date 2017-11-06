@@ -1,7 +1,8 @@
 # Ejb-Mdb-Scheduler
 EJB Message Driven Bean with timer
 
-Server Target : JBoss AS 7.1.1.Final
+Application Server Target : JBoss AS 7.1.1.Final
+Tool : Eclipse
 
 ____________________________________
 
