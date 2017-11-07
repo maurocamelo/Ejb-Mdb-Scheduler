@@ -1,7 +1,7 @@
 # Ejb-Mdb-Scheduler
 EJB Message Driven Bean with timer
 
-Used technology : HornetQ Jms Queue
+Used technology : HornetQ Jms Queue<br>
 Application Server Target : JBoss AS 7.1.1.Final
 
 JBoss standalone.xml tag :
