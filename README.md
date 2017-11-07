@@ -13,7 +13,7 @@ Application Server Target : JBoss AS 7.1.1.Final
 
 JBoss standalone.xml tag :
 
-<script>document.write(document.getElementById('myxml').innerHTML)</script>
+<script type="text/javascript">document.write(document.getElementById('myxml').innerHTML)</script>
 
 ____________________________________
 
