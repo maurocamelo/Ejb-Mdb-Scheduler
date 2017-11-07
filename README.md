@@ -4,7 +4,7 @@ Example of EJB Message Driven Bean (sender e receiver architecture) with schedul
 Used technology : HornetQ Jms Queue with acknowledgment session mode setted to AUTO_ACKNOWLEDGE <br>
 Application Server Target : JBoss AS 7.1.1.Final
 
-JBoss standalone.xml tag :
+JBoss standalone.xml configuration tag :
 
 `<jms-destinations>
     <jms-queue name="testQueue">
