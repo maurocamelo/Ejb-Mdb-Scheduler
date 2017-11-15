@@ -1,4 +1,6 @@
-# Example of EJB Message Driven Bean Consumer and Producer Architecture
+# EJB Message Driven Bean Consumer and Producer Architecture
+
+Type : Java EE 7 example
 
 Used technology : <b>HornetQ Jms Queue with acknowledgment session mode setted to AUTO_ACKNOWLEDGE, Java EE 7, Git, Application Server Target : JBoss AS 7.1.1.Final</b> <br>
 
